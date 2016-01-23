@@ -8,7 +8,7 @@
 
 ### 项目协作
 
- - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台
+ - [Trello](https://trello.com/) - 轻量级团队流程协作和列表管理平台 ([ Appsolution 使用评测 -人人都爱的 Trello 到底好在哪里](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=208096682&idx=1&sn=1b9f8c5755f33dccceee4cc41a6603a6&scene=1&srcid=01212991EXTbp8x7raqYxTNx#rd))
  - [Tower.im](https://tower.im/) - 简单，好用的团队协作工具
  - [风车](https://fengche.co/) - 简单高效的团队协作工具（原 Pragmatic.ly）
  - [Productivee](https://www.producteev.com/) - 和风车风格类似的团队协作工具
